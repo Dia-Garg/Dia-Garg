@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dia 👋
 
-<!--
-**Dia-Garg/Dia-Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Science Engineering Student  
+💻 Focused on Python, Backend Development & Automation  
+🚀 Preparing for Summer 2026 Internship (May–July)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Focus
+- Building automation tools in Python
+- Strengthening backend fundamentals
+- Practicing Data Structures & Algorithms
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Git & GitHub
+- Basic DSA (Arrays, Strings, Linked List, Stack, Queue, Trees)
+
+---
+
+## 📌 Projects
+- 🔹 File Organizer – Automates sorting files by type
+- 🔹 More projects coming soon...
+
+---
+
+## 🎯 Goal
+To build strong technical foundations and secure a high-quality internship while developing skills that create long-term leverage.
