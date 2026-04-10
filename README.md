@@ -1,86 +1,41 @@
 # Hi, I'm Dia Garg 👋
 
-I'm a Computer Science student at **SRM Institute of Science and Technology** with an interest in **software development, backend systems, and automation tools**.
-
-I enjoy building small projects that solve practical problems and help me understand how software systems work.
+Computer Science student at **SRM Institute of Science and Technology**.  
+Interested in **backend development, APIs, and building practical systems**.
 
 ---
 
-## 💻 Technical Skills
-
-**Languages**
-- Python
-- C
-- C++
-
-**Tools & Technologies**
-- Git
-- GitHub
-- FastAPI
-- VS Code
-
-**Libraries**
-- Pandas
-
-**Concepts**
-- Data Structures
-- Object-Oriented Programming
-- REST APIs
-- Problem Solving
+## 💻 Tech Stack
+- **Languages:** Python, C, C++, HTML  
+- **Backend:** Flask, FastAPI  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** DAA, DSA, OOP, REST APIs  
 
 ---
 
 ## 🚀 Projects
 
-### 📂 File Organizer (Python Automation)
+- **Mental Health Analyzer**  
+  Full-stack Flask + MySQL app for assessing mental health based on user responses.  
+  🔗 https://github.com/Dia-Garg/Mental_health_analyser  
 
-A Python script that automatically organizes files into folders based on file type.
+- **Task Manager API**  
+  REST API built with FastAPI for managing tasks.  
+  🔗 https://github.com/Dia-Garg/task-manager-api  
 
-**Key Features**
-- Categorizes files by extension
-- Uses Python's `os` and `shutil` modules
-- Automates file organization
-
-🔗 https://github.com/Dia-Garg/file-organizer
-
----
-
-### 📊 CSV Data Cleaner
-
-A Python tool for cleaning messy CSV datasets.
-
-**Key Features**
-- Removes duplicate rows
-- Handles missing values
-- Standardizes inconsistent data formats
-
-🔗 https://github.com/Dia-Garg/csv-data-cleaner
-
----
-
-### ⚙️ Task Manager API (FastAPI)
-
-A simple backend API for managing tasks.
-
-**Features**
-- Retrieve tasks using a GET endpoint
-- Create new tasks using POST
-- Delete tasks using DELETE
-- Interactive API testing with Swagger UI
-
-🔗 https://github.com/Dia-Garg/task-manager-api
+- **File Organizer**  
+  Python automation script to sort files by type.  
+  🔗 https://github.com/Dia-Garg/file-organizer  
 
 ---
 
 ## 📚 Currently Learning
-
-- Backend development with **FastAPI**
-- Building REST APIs
-- Improving problem solving with **DSA**
+- Backend development (Flask, FastAPI)  
+- System design basics  
+- Improving problem solving with DSA  
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/dia-garg-745086216
-- GitHub: https://github.com/Dia-Garg
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/dia-garg-745086216  
+- GitHub: https://github.com/Dia-Garg  
